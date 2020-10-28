@@ -1,14 +1,9 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Gerenciador de Cargos
+Programa que: 
+1-) Recebe pelo teclado o número de diferentes cargos abertos;
+2-) Para cada cargo recebe pelo teclado, em uma linha, a designação do cargo;
+3-) Para esse cargo recebe pelo teclado os pesos, na ordem da Tabela 1;
+4-) Recebe pelo teclado o número de pessoas;
+5-) Para cada pessoa recebe pelo teclado, em uma linha, o nome;
+6-) Para a pessoa desse nome recebe, pelo teclado, as notas, na ordem da Tabela 1;
+7-) Escreve na tela, em linhas distintas, o nome do cargo (na ordem de entrada) e os nomes das pessoas em ordem de pontuação das listas, conforme exemplo abaixo.
