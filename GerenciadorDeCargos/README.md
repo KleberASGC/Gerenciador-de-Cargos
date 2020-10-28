@@ -1,4 +1,4 @@
-Gerenciador de Cargos
+# Gerenciador de Cargos
 Programa que: 
 1-) Recebe pelo teclado o número de diferentes cargos abertos;
 2-) Para cada cargo recebe pelo teclado, em uma linha, a designação do cargo;
